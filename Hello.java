@@ -5,5 +5,7 @@ public class Hello
 		System.out.println("修改Hello World");
 		System.out.println("Hello World");
 		System.out.println("Hello World");
+		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 }
